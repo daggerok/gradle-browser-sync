@@ -1,0 +1,16 @@
+.idea
+!.idea/
+.idea/*
+!.idea/runConfigurations/
+*.iml
+*.ipr
+*.iws
+*.log*
+build/
+/out/
+.DS_Store
+node_modules/
+packages-lock.json
+
+# Project exclude paths
+/.gradle/
